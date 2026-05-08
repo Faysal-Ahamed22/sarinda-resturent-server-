@@ -1,5 +1,7 @@
 # Sarinda Restaurant Server
 
+Live Link : https://sadinda-cafe.web.app/
+
 A Node.js/Express backend server for the Sarinda Restaurant management system with MongoDB integration, JWT authentication, and admin role-based access control.
 
 ## Features
